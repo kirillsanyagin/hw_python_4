@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: alex_nap
+password: 41cd6ba204
+
+title_name: Selenium
+description_name: Selenium True!
+content_name:  Инструмент для автоматизации действий веб-браузера.
+
+your_name: Oleg
+your_email: Oleg@gmail.com
+your_content: Selenium True!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: alex_nap
+password_1: 41cd6ba204
